@@ -19,6 +19,9 @@ https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
 ## Week 1 
 #### Learn python for data science
 https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU
+
+- [02-twitter_sentiment_analysis](./month2/week1/01-python-ds/twitter_sentiment_analysis.py)
+
 #### Math of Intelligence
 https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D
 #### Intro to Tensorflow
