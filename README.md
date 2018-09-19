@@ -5,32 +5,41 @@ This is the Curriculum for "Learn Machine Learning in 3 Months" [this](https://y
 # Month 1
 
 ## Week 1 Linear Algebra
-https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+- [X] [Essence of linear algebra - by 3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [ ] [Linear Algebra - MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+
 ## Week 2 Calculus
-https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+- [ ] [Essence of calculus - by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
 ## Week 3 Probability
-https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
+- [ ] [Introduction to Probability - The Science of Uncertainty - edX](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+
 ## Week 4 Algorithms
-https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
+- [ ] [Algorithm Design and Analysis - edX](https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x)
 
 # Month 2
 
-## Week 1 
-#### Learn python for data science
-https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU
+## Week 1
 
-- [twitter sentiment analysis](./month2/week1/01-python-ds/twitter_sentiment_analysis.py)
-- [recommendation system](./month2/week1/01-python-ds/recommendation_system.py)
+#### Learn python for data science
+
+- [ ] [Learn python for data science - by Siraj Raval](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+
+__Practice__:
+    - [twitter sentiment analysis](./month2/week1/01-python-ds/twitter_sentiment_analysis.py)
+    - [recommendation system](./month2/week1/01-python-ds/recommendation_system.py)
 
 #### Math of Intelligence
-https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D
-#### Intro to Tensorflow
-https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV
+- [ ] [Math of Intelligence - by Siraj Raval](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
 
-## Week 2 
-Intro to ML (Udacity)
-https://eu.udacity.com/course/intro-to-machine-learning--ud120
+#### Intro to Tensorflow
+- [ ] [Intro to Tensorflow - by Siraj Raval](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
+
+## Week 2
+
+- [X] [Intro to ML (Udacity) - Udacity](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
+- [ ] [Google Machine Learning Crash course](https://developers.google.com/machine-learning/crash-course/)
+    - [Github reference - Google Machine Learning Crash course](https://github.com/tuanavu/google-ml-crash-course)
 
 ## Week 3-4
 ML Project Ideas
@@ -39,12 +48,12 @@ https://github.com/NirantK/awesome-project-ideas
 # Month 3 (Deep Learning)
 
 ## Week 1 
-Intro to Deep Learning
-https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
 
-## Week 2 
-Deep Learning by Fast.AI
-http://course.fast.ai/
+- [ ] [Intro to Deep Learning - by Siraj Raval](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
+
+## Week 2
+
+- [ ] [Deep Learning by Fast.ai](http://course.fast.ai/)
 
 ## Week 3-4 
 Re-implement DL projects from my github
