@@ -22,12 +22,11 @@ This is the Curriculum for "Learn Machine Learning in 3 Months" [this](https://y
 ## Week 1
 
 #### Learn python for data science
-
 - [ ] [Learn python for data science - by Siraj Raval](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
 
-__Practice__:
-    - [02-Twitter sentiment analysis](./month2/week1/01-python-ds/02_twitter_sentiment_analysis.py)
-    - [03-Recommendation system](./month2/week1/01-python-ds/03_recommendation_system.py)
+##### Practice :
+- [02-Twitter sentiment analysis](./month2/week1/01-python-ds/02_twitter_sentiment_analysis.py)
+- [03-Recommendation system](./month2/week1/01-python-ds/03_recommendation_system.py)
 
 #### Math of Intelligence
 - [ ] [Math of Intelligence - by Siraj Raval](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
