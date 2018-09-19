@@ -38,12 +38,11 @@ __Practice__:
 ## Week 2
 
 - [X] [Intro to ML (Udacity) - Udacity](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
-- [ ] [Google Machine Learning Crash course](https://developers.google.com/machine-learning/crash-course/)
-    - [Github reference - Google Machine Learning Crash course](https://github.com/tuanavu/google-ml-crash-course)
+- [ ] [Google Machine Learning Crash course](https://developers.google.com/machine-learning/crash-course/) - [My github reference](https://github.com/tuanavu/google-ml-crash-course)
 
 ## Week 3-4
-ML Project Ideas
-https://github.com/NirantK/awesome-project-ideas
+
+- [ ] [ML Project Ideas](https://github.com/NirantK/awesome-project-ideas)
 
 # Month 3 (Deep Learning)
 
